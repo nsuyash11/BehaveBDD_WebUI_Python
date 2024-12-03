@@ -1,0 +1,7 @@
+2024-08-31 18:33:41,606 : setup_env-login_steps - step_impl - 153 - DEBUG : actual forgot page title : forgot account details
+2024-08-31 18:38:00,846 : setup_env-login_steps - step_impl - 153 - DEBUG : actual forgot page title : forgot account details
+2024-08-31 18:38:07,560 : setup_env-login_steps - step_impl - 171 - DEBUG : actual register page title : create your irctc account
+2024-09-02 20:21:38,838 : setup_env-login_steps - step_impl - 306 - DEBUG : Actual register page title : Create Your IRCTC account
+2024-09-02 20:25:10,448 : setup_env-login_steps - step_impl - 306 - DEBUG : Actual register page title : create your irctc account
+2024-09-02 20:25:15,683 : setup_env-login_steps - step_impl - 306 - DEBUG : Actual register page title : create your irctc account
+2024-09-02 20:26:05,652 : setup_env-login_steps - step_impl - 306 - DEBUG : Actual register page title : create your irctc account

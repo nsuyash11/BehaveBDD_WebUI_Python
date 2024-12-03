@@ -1,0 +1,28 @@
+/ absolute full xpath
+    from root of DOM till your element
+
+/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-header[1]/div[2]/div[2]/div[1]/a[2]
+
+=======
+
+// relative xpath
+    from a significant element till your element
+
+//a[@id='register']/span
+
+=======
+
+//tagname[@uniq_reliable_property='uniq_value']
+
+//a[@id='search-product']
+
+=======
+
+text()
+//div[text()='Testing']
+
+contains(parameter, value)
+//div[contains(text(), 'apify')]
+
+translate(parameter, 'ABCD', 'abcd')
+//div[contains(translate(  text(),'ABCD', 'abcd' ), 'REGISTER')]

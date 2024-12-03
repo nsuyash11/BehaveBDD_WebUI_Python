@@ -1,0 +1,25 @@
+CHALLENGE
+	- Captcha OCR Tessaract
+	- Captcha module returned output with \n
+	  Sent to textbox, it submitted form because of \n, lol :(
+	  Then stripped it, worked fine !
+
+	- handling complex dynamic drowdowns
+	- handling complex dynamic calendars
+
+	- UI Hidden elements (field validation messages, etc) [Train Search From/To Stations]
+		- wait
+		- click on blank area of page so that dropdown closes
+		- then do further required action
+
+	- ElementClickInterceptedException : another overlapping UI element (dropdown / pop-up / card) over your element you want to click
+	- TimeOutException : your element state not occured even until wait done
+	- NoSuchElementException : element not found
+	- InvalidSelectorException : incorrect locator text syntax
+	- ElementNotInteractableException : element present in DOM but might be disabled/hidden/overlapped/outside viewport        
+
+
+	- driver focus change to new window [PNR Enquiry Feature]
+		- windows_list = driver.window_handles
+		- new_tab_window_id = windows_list[1]
+		- driver.switch_to.window(new_tab_window_id)        

@@ -1,0 +1,34 @@
+===== INSTALLATION =====
+
+download allure 2.x.x zip from internet (github)
+extract and place them in c:/allure
+add c:/allure/bin to system path, so that allure command can be identified by prompt
+
+pip install allure-behave
+
+
+===== TEST RUN =====
+
+behave -f allure_behave.formatter:AllureFormatter -o folder-name
+
+-f : format specifier
+    plain
+    progress
+    json
+    json.pretty
+    allure_behave.formatter:AllureFormatter
+    pretty
+
+
+-o : output-directory to store json result files
+    allure-results
+
+
+===== REPORT GENERATION =====
+
+allure serve inputfoldername
+
+    inputfoldername : where you have stored test result files
+
+    will create html report and will be stored temporarily in some c temp folder
+        C:\Users\Suyash\AppData\Local\Temp\1610844493241825652\allure-report

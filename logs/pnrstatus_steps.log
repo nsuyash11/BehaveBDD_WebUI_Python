@@ -1,0 +1,27 @@
+2024-09-08 12:08:39,140 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : Error! PNR Number should be 10 digit numeric number.
+2024-09-08 12:09:27,542 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : Error! PNR Number should not be blank.
+2024-09-08 12:09:39,264 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : Error! PNR Number should not be blank.
+2024-09-08 12:10:08,817 : setup_env-pnrstatus_steps - step_impl - 69 - DEBUG : error! pnr no. is not valid
+2024-09-08 12:21:49,701 : setup_env-pnrstatus_steps - step_impl - 88 - DEBUG : error! captcha not matched
+2024-09-09 10:58:21,355 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should be 10 digit numeric number.
+2024-09-09 10:59:10,366 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 10:59:56,208 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 11:00:19,039 : setup_env-pnrstatus_steps - step_impl - 69 - DEBUG : error! pnr no. is not valid
+2024-09-09 11:52:47,493 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should be 10 digit numeric number.
+2024-09-09 11:53:34,405 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 11:53:49,741 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 11:54:07,381 : setup_env-pnrstatus_steps - step_impl - 69 - DEBUG : error! pnr no. is not valid
+2024-09-09 12:03:40,088 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should be 10 digit numeric number.
+2024-09-09 12:29:39,046 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should be 10 digit numeric number.
+2024-09-09 12:31:25,031 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 12:31:55,191 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 12:33:06,498 : setup_env-pnrstatus_steps - step_impl - 88 - DEBUG : error! captcha not matched
+2024-09-09 12:46:48,307 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should be 10 digit numeric number.
+2024-09-09 12:48:39,089 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 12:49:22,091 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 12:49:58,902 : setup_env-pnrstatus_steps - step_impl - 69 - DEBUG : error! pnr no. is not valid
+2024-09-09 12:53:06,071 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should be 10 digit numeric number.
+2024-09-09 12:54:35,868 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 12:55:30,218 : setup_env-pnrstatus_steps - step_impl - 56 - DEBUG : error! pnr number should not be blank.
+2024-09-09 12:56:22,294 : setup_env-pnrstatus_steps - step_impl - 69 - DEBUG : error! pnr no. is not valid
+2024-09-09 12:57:00,305 : setup_env-pnrstatus_steps - step_impl - 88 - DEBUG : error! captcha not matched

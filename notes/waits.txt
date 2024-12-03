@@ -1,0 +1,55 @@
+WAITS
+
+implicit
+	applied globally across driver to wait for MAX UPTO x secs until AN element used is located
+	if an element used, is found before x secs, it will not wait and will move further
+	if an element used, is NOT found within x secs, it will throw NoSuchElementException
+
+	driver.implicitly_wait(10)
+
+	actual usage : to LIMIT waiting time (not extra wait actually) for all elements upto x secs each
+
+
+explicit
+	applied for an element, until its specific state has occurred, and also UPTO MAX x secs
+
+	driver_explicit_wait = WebDriverWait(driver, 10)
+ 	submit_button = driver_explicit_wait.until(EC.element_to_be_clickable((By.XPATH, "//button[@id='submit']")))
+
+	actual usage : wait for specific condition of element before acting further, and upto x secs
+
+
+advanced explicit (fluent)
+	applied for an element, until its specific state has occurred, retry poll in y secs, ignore any exception, and also UPTO MAX x secs
+
+	driver_fluent_wait = WebDriverWait(driver, 15, poll_frequency=2, ignored_exceptions=[TimeoutException])
+    submit_button = driver_fluent_wait.until(EC.element_to_be_clickable((By.XPATH, "//button[@id='submit']")))
+
+
+
+======== SELENIUM IMPORTS =========
+
+
+from selenium import webdriver
+
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions
+
+from selenium.webdriver.support.ui import Select
+
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+
+from selenium.webdriver.chrome.options import Options
+
+
+
+========= SELECT STANDARD DROPDOWN ================
+
+
+from selenium.webdriver.support.ui import Select
+
+dropdown_el = driver.find_element(*locator tuple)
+
+select = Select(dd_el)
+select.method_to_select_by_visible_text/value/index("Option Text Inside/Value attribute/Index attribute")

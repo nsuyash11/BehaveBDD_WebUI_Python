@@ -1,0 +1,2 @@
+behave by default does NOT support parallel tests execution
+create pytest wrapper method, to call behave features through pytest test method internally

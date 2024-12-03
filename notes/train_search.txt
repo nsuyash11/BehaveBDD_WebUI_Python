@@ -1,0 +1,13 @@
+scenarios
+
+invalid from : toast error
+invalid to : toast error
+invalid date : toast error
+
+no trains route - 0 result
+trains route - non 0 result
+
+PNR Search feature
+Book Ticket feature
+Payment feature
+View Booked Tickets feature

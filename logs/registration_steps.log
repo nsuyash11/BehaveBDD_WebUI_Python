@@ -1,0 +1,424 @@
+2024-09-01 14:15:40,933 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:33:14,552 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:38:01,362 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:39:54,007 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:41:48,955 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:45:44,402 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:45:46,671 : setup_env-registration_steps - test_all_blank_validations - 46 - DEBUG : actual validations : user name is required. 
+ full name is required. 
+ password is required. 
+ password is required. 
+ email is required. 
+ mobile no is required. 
+ captcha is required
+2024-09-01 14:49:29,808 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : I am here loaded Reg Page
+2024-09-01 14:49:33,966 : setup_env-registration_steps - test_all_blank_validations - 46 - DEBUG : actual validations : user name is required. 
+ full name is required. 
+ password is required. 
+ confirm password is required. 
+ email is required. 
+ mobile no is required. 
+ captcha is required
+2024-09-01 17:10:17,452 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:15:09,741 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:15:59,322 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:17:08,329 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:17:11,670 : setup_env-registration_steps - test_all_blank_validations - 45 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-01 17:44:56,147 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:01,804 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:05,006 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:07,616 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:11,794 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:38,069 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:41,069 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:42,413 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:44,155 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:45:46,564 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:48:06,811 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:48:12,893 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:48:15,374 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:48:17,954 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:48:20,767 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:49:15,807 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:49:21,153 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:49:22,968 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:49:24,431 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 17:49:27,324 : setup_env-registration_steps - load_registration_page - 17 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:43:48,903 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:43:52,992 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:43:55,655 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:43:57,852 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:44:03,106 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:46:02,024 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:46:07,103 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:46:09,717 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:46:12,190 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:46:13,842 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:49:19,233 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:49:23,057 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:49:25,951 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:49:29,272 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:49:31,584 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:51:02,801 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:51:10,266 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:51:14,034 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:51:19,017 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:51:25,300 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:56:43,456 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:56:46,317 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:56:48,001 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:56:50,377 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 18:56:52,814 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:06:13,193 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:06:16,828 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:06:19,710 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:06:22,525 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:06:24,747 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:08:00,428 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:08:23,807 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:08:30,264 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:08:36,373 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:08:41,616 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:11:01,784 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:11:16,898 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:11:30,126 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:11:42,410 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:11:54,184 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:13:49,273 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:14:09,170 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:14:24,777 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:14:38,294 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:14:49,476 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:17:26,801 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:17:56,903 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:17:59,191 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('     ', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'A4NqU')
+2024-09-01 19:17:59,753 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-01 19:18:09,758 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:18:11,656 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('@#$', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', '9ZPkq9')
+2024-09-01 19:18:11,854 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-01 19:18:21,716 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:18:23,670 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('thisisveryveryveryverylongstring', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'QH4TJR')
+2024-09-01 19:18:52,823 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:18:54,643 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('random', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'rNmMg')
+2024-09-01 19:18:54,847 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name [ random ] not available
+2024-09-01 19:34:14,813 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:34:18,321 : setup_env-registration_steps - enter_invalid_uname_valid_others - 85 - DEBUG : Entered values : ('', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'N4t=')
+2024-09-01 19:34:18,578 : setup_env-registration_steps - test_username_validation - 94 - DEBUG : actual_username_warning : user name is required.
+2024-09-01 19:34:22,796 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:34:25,326 : setup_env-registration_steps - enter_invalid_uname_valid_others - 85 - DEBUG : Entered values : ('     ', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'Grdw')
+2024-09-01 19:34:25,545 : setup_env-registration_steps - test_username_validation - 94 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-01 19:34:29,371 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:34:31,780 : setup_env-registration_steps - enter_invalid_uname_valid_others - 85 - DEBUG : Entered values : ('@#', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'nMkt')
+2024-09-01 19:34:31,977 : setup_env-registration_steps - test_username_validation - 94 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-01 19:34:35,086 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : I am here loaded Reg Page
+2024-09-01 19:34:37,803 : setup_env-registration_steps - enter_invalid_uname_valid_others - 85 - DEBUG : Entered values : ('random', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'Y bDP')
+2024-09-01 19:34:38,031 : setup_env-registration_steps - test_username_validation - 94 - DEBUG : actual_username_warning : user name [ random ] not available
+2024-09-02 15:21:26,364 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:21:28,401 : setup_env-registration_steps - test_all_blank_validations - 48 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 15:21:33,437 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:21:40,624 : setup_env-registration_steps - enter_invalid_uname_valid_others - 87 - DEBUG : Entered values : ('', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'arYg')
+2024-09-02 15:21:40,957 : setup_env-registration_steps - test_username_validation - 96 - DEBUG : actual_username_warning : user name is required.
+2024-09-02 15:21:45,801 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:21:48,582 : setup_env-registration_steps - enter_invalid_uname_valid_others - 87 - DEBUG : Entered values : ('     ', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'h@T XX')
+2024-09-02 15:21:48,809 : setup_env-registration_steps - test_username_validation - 96 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-02 15:21:52,721 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:21:55,197 : setup_env-registration_steps - enter_invalid_uname_valid_others - 87 - DEBUG : Entered values : ('@#', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'JXFF')
+2024-09-02 15:21:55,422 : setup_env-registration_steps - test_username_validation - 96 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-02 15:22:00,998 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:03,339 : setup_env-registration_steps - enter_invalid_uname_valid_others - 87 - DEBUG : Entered values : ('random', 'Daya Shetty', 'Password$123', 'abc@abc.com', '9876543210', 'bm=3')
+2024-09-02 15:22:03,569 : setup_env-registration_steps - test_username_validation - 96 - DEBUG : actual_username_warning : user name [ random ] not available
+2024-09-02 15:22:08,249 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:10,755 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 120 - DEBUG : Entered values : ('dayashetty5', '', 'Password$123', 'abc@abc.com', '9876543210', 'aNMg')
+2024-09-02 15:22:15,733 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:18,049 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 120 - DEBUG : Entered values : ('dayashetty5', '     ', 'Password$123', 'abc@abc.com', '9876543210', 'VFXVa4')
+2024-09-02 15:22:22,847 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:25,412 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 120 - DEBUG : Entered values : ('dayashetty5', '@#$', 'Password$123', 'abc@abc.com', '9876543210', 'HhXD')
+2024-09-02 15:22:30,265 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:33,395 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 120 - DEBUG : Entered values : ('dayashetty5', 'thisisveryveryveryveryverylongstring', 'Password$123', 'abc@abc.com', '9876543210', 'AV RAL LIA')
+2024-09-02 15:22:37,662 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:40,184 : setup_env-registration_steps - enter_invalid_password_valid_others - 146 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '', 'abc@abc.com', '9876543210', 'Pr9LH9')
+2024-09-02 15:22:44,675 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:46,914 : setup_env-registration_steps - enter_invalid_password_valid_others - 146 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '     ', 'abc@abc.com', '9876543210', 'KZ6fX')
+2024-09-02 15:22:51,207 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:22:53,507 : setup_env-registration_steps - enter_invalid_password_valid_others - 146 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '@#', 'abc@abc.com', '9876543210', 'Kuq4Kk')
+2024-09-02 15:22:57,808 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:00,274 : setup_env-registration_steps - enter_invalid_password_valid_others - 146 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'specialcharreqcheck', 'abc@abc.com', '9876543210', '')
+2024-09-02 15:23:04,046 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:06,786 : setup_env-registration_steps - enter_invalid_password_valid_others - 146 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'thisisveryveryveryveryverylongstring', 'abc@abc.com', '9876543210', '767)')
+2024-09-02 15:23:11,688 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:14,043 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 172 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '', 'abc@abc.com', '9876543210', '3Eutu')
+2024-09-02 15:23:19,290 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:21,827 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 172 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '     ', 'abc@abc.com', '9876543210', 'HnaxXtF')
+2024-09-02 15:23:25,747 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:28,473 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 172 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'Password@12', 'abc@abc.com', '9876543210', 'GD6uGY')
+2024-09-02 15:23:32,458 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:35,645 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:38,739 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:42,584 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:45,538 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:48,404 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:51,286 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:54,207 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:23:57,140 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:00,763 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:03,834 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:06,823 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:11,016 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:13,969 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:17,050 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:19,969 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:22,169 : setup_env-registration_steps - step_impl - 251 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '9876543210', '')
+2024-09-02 15:24:25,435 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:27,467 : setup_env-registration_steps - step_impl - 251 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '9876543210', '     ')
+2024-09-02 15:24:30,897 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:32,530 : setup_env-registration_steps - step_impl - 251 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '9876543210', '12345')
+2024-09-02 15:24:36,996 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 15:24:38,974 : setup_env-registration_steps - step_impl - 251 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '9876543210', 'abcde')
+2024-09-02 16:45:57,085 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:45:59,653 : setup_env-registration_steps - test_all_blank_validations - 47 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 16:46:08,349 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:11,225 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'qn4Zz')
+2024-09-02 16:46:11,440 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is required.
+2024-09-02 16:46:15,919 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:18,660 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('     ', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'rVkK7Nk')
+2024-09-02 16:46:18,885 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-02 16:46:23,843 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:26,371 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('@#', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'ZgkFtF')
+2024-09-02 16:46:26,577 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-02 16:46:31,232 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:33,784 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('random', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'VrgUet')
+2024-09-02 16:46:34,011 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name [ random ] not available
+2024-09-02 16:46:38,070 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:40,730 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', '', 'Password$123', 'abc@abc.com', '1234567890', 'n36bq')
+2024-09-02 16:46:44,228 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:46,944 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', '     ', 'Password$123', 'abc@abc.com', '1234567890', 'rofk3')
+2024-09-02 16:46:50,897 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:46:53,477 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', '@#$', 'Password$123', 'abc@abc.com', '1234567890', 'UTGG')
+2024-09-02 16:46:58,360 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:01,019 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', 'thisisveryveryveryveryverylongstring', 'Password$123', 'abc@abc.com', '1234567890', 'bRtqy V')
+2024-09-02 16:47:05,171 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:07,401 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '', 'abc@abc.com', '1234567890', '')
+2024-09-02 16:47:07,649 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is required.
+2024-09-02 16:47:12,226 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:14,647 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '     ', 'abc@abc.com', '1234567890', 'fmgY')
+2024-09-02 16:47:14,889 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is required.
+2024-09-02 16:47:20,010 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:22,341 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '!@#$%^&*-', 'abc@abc.com', '1234567890', '3MeQ')
+2024-09-02 16:47:22,724 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is required.
+2024-09-02 16:47:28,192 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:30,405 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Aa1@', 'abc@abc.com', '1234567890', 'g4RhZE')
+2024-09-02 16:47:30,625 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 16:47:35,427 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:37,707 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'abcd1234', 'abc@abc.com', '1234567890', '')
+2024-09-02 16:47:37,960 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 16:47:42,778 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:45,020 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'abcdABCD', 'abc@abc.com', '1234567890', '9r34DZ')
+2024-09-02 16:47:45,240 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 16:47:50,285 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:47:52,701 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'ABCD1234', 'abc@abc.com', '1234567890', 'a6untN')
+2024-09-02 16:47:52,908 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 16:47:57,856 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:00,307 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 181 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '', 'abc@abc.com', '1234567890', 'aaUfH')
+2024-09-02 16:48:04,700 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:07,219 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 181 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '     ', 'abc@abc.com', '1234567890', 'e7ZP3')
+2024-09-02 16:48:13,021 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:15,451 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 181 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'Password@12', 'abc@abc.com', '1234567890', 'rXV6')
+2024-09-02 16:48:20,383 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:22,983 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '', '1234567890', '@N9ue')
+2024-09-02 16:48:31,535 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:34,117 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '     ', '1234567890', 'hrEHuK')
+2024-09-02 16:48:40,229 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:42,580 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'a@b.in', '1234567890', '7r6a')
+2024-09-02 16:48:47,257 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:49,987 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abcde', '1234567890', '3n@Y rF')
+2024-09-02 16:48:56,460 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:48:58,892 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'johndoe@gmail.com', '1234567890', 'bh3Kg')
+2024-09-02 16:49:04,506 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:07,165 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '', 'uhhFN')
+2024-09-02 16:49:12,144 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:14,558 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '     ', 'uuNN')
+2024-09-02 16:49:22,563 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:24,974 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '!@#$%^&*', 'q@3qL')
+2024-09-02 16:49:30,643 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:33,290 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '123', 'gex3')
+2024-09-02 16:49:38,771 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:41,572 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', 'abcdefghij', 'Wje33e')
+2024-09-02 16:49:47,356 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:49,946 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '0123456789', 'VEmU')
+2024-09-02 16:49:56,324 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 16:49:59,606 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '9876543210', 'HUDK')
+2024-09-02 17:00:27,521 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:00:30,223 : setup_env-registration_steps - test_all_blank_validations - 47 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 17:00:33,639 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:00:36,290 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'ffUPE')
+2024-09-02 17:00:36,514 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is required.
+2024-09-02 17:00:41,319 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:00:43,987 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('     ', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'hkt@')
+2024-09-02 17:00:44,258 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-02 17:00:50,405 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:00:52,856 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('@#', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'R3tWa')
+2024-09-02 17:00:53,045 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name is invalid.minimum 3 to maximum 35 characters allowed. only letter and number are allowed.
+2024-09-02 17:00:56,940 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:00:59,168 : setup_env-registration_steps - enter_invalid_uname_valid_others - 86 - DEBUG : Entered values : ('random', 'Daya Shetty', 'Password$123', 'abc@abc.com', '1234567890', 'N97H')
+2024-09-02 17:00:59,389 : setup_env-registration_steps - test_username_validation - 95 - DEBUG : actual_username_warning : user name [ random ] not available
+2024-09-02 17:01:04,552 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:01:06,523 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', '', 'Password$123', 'abc@abc.com', '1234567890', 'Hn=Eg')
+2024-09-02 17:01:06,705 : setup_env-registration_steps - test_fullname_validation - 125 - DEBUG : actual_username_warning : full name is required.
+2024-09-02 17:01:10,688 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:01:12,850 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', '     ', 'Password$123', 'abc@abc.com', '1234567890', 'RHEK')
+2024-09-02 17:01:13,070 : setup_env-registration_steps - test_fullname_validation - 125 - DEBUG : actual_username_warning : full name min 1 character & max 50 character.
+2024-09-02 17:01:16,917 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:01:19,548 : setup_env-registration_steps - enter_invalid_fullname_valid_others - 119 - DEBUG : Entered values : ('dayashetty5', '@#$', 'Password$123', 'abc@abc.com', '1234567890', 'Q7VN')
+2024-09-02 17:01:44,807 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:01:47,273 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '', 'abc@abc.com', '1234567890', 'H9tGP')
+2024-09-02 17:01:47,660 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is required.
+2024-09-02 17:01:52,525 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:01:54,859 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '     ', 'abc@abc.com', '1234567890', 'Rhmu4')
+2024-09-02 17:01:55,061 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is required.
+2024-09-02 17:01:58,693 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:01,212 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', '!@#$%^&*-', 'abc@abc.com', '1234567890', '')
+2024-09-02 17:02:01,439 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 17:02:04,390 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:07,180 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Aa1@', 'abc@abc.com', '1234567890', '7Ugqb')
+2024-09-02 17:02:07,387 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 17:02:11,071 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:13,277 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'abcd1234', 'abc@abc.com', '1234567890', 'UUKET')
+2024-09-02 17:02:13,507 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 17:02:17,079 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:19,442 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'abcdABCD', 'abc@abc.com', '1234567890', '')
+2024-09-02 17:02:19,659 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 17:02:23,475 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:25,904 : setup_env-registration_steps - enter_invalid_password_valid_others - 150 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'ABCD1234', 'abc@abc.com', '1234567890', 'FtnN9r')
+2024-09-02 17:02:26,091 : setup_env-registration_steps - test_password_validation - 157 - DEBUG : actual_username_warning : password is invalid.minimum 8 to maximum 15 characters allowed.password must contain at least one small & one capital alphabet and numeric digit.
+2024-09-02 17:02:29,445 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:32,019 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 181 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '', 'abc@abc.com', '1234567890', 'KMMu9')
+2024-09-02 17:02:32,261 : setup_env-registration_steps - test_cnfpwd_validation - 189 - DEBUG : actual_username_warning : password and confirm password not matched.
+2024-09-02 17:02:35,256 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:37,802 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 181 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '     ', 'abc@abc.com', '1234567890', 'bJkD')
+2024-09-02 17:02:38,007 : setup_env-registration_steps - test_cnfpwd_validation - 189 - DEBUG : actual_username_warning : password and confirm password not matched.
+2024-09-02 17:02:41,008 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:43,469 : setup_env-registration_steps - enter_invalid_cnfpwd_valid_others - 181 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'Password@12', 'abc@abc.com', '1234567890', 'JmUgqXr')
+2024-09-02 17:02:43,679 : setup_env-registration_steps - test_cnfpwd_validation - 189 - DEBUG : actual_username_warning : password and confirm password not matched.
+2024-09-02 17:02:46,701 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:48,952 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '', '1234567890', 'Egk4G')
+2024-09-02 17:02:49,191 : setup_env-registration_steps - test_email_validation - 222 - DEBUG : actual_username_warning : email is required.
+2024-09-02 17:02:51,888 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:02:54,585 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', '     ', '1234567890', 'F6RG3Z')
+2024-09-02 17:02:54,770 : setup_env-registration_steps - test_email_validation - 222 - DEBUG : actual_username_warning : email is required.
+2024-09-02 17:02:58,690 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:01,151 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'a@b.in', '1234567890', 'trgmyY')
+2024-09-02 17:03:01,318 : setup_env-registration_steps - test_email_validation - 222 - DEBUG : actual_username_warning : email min 10 character & max 70 character.
+2024-09-02 17:03:05,851 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:08,052 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abcde', '1234567890', 'qlL4bw')
+2024-09-02 17:03:08,251 : setup_env-registration_steps - test_email_validation - 222 - DEBUG : actual_username_warning : email is invalid.
+2024-09-02 17:03:11,366 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:14,102 : setup_env-registration_steps - enter_invalid_email_valid_others - 214 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'johndoe@gmail.com', '1234567890', 'FhwG')
+2024-09-02 17:03:14,391 : setup_env-registration_steps - test_email_validation - 222 - DEBUG : actual_username_warning : email id is already linked with other irctc user.
+2024-09-02 17:03:18,574 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:20,635 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '', 'gEPa')
+2024-09-02 17:03:20,818 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : mobile no is required.
+2024-09-02 17:03:23,734 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:26,164 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '     ', 'A4jtTn')
+2024-09-02 17:03:26,330 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : mobile no is required.
+2024-09-02 17:03:29,215 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:31,581 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '!@#$%^&*', 'qRnv')
+2024-09-02 17:03:31,763 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : mobile no is required.
+2024-09-02 17:03:35,478 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:37,844 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '123', 'PV=Qmm')
+2024-09-02 17:03:38,033 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : indian mobile no is invalid.
+2024-09-02 17:03:40,979 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:43,844 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', 'abcdefghij', 'VFK4')
+2024-09-02 17:03:44,039 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : mobile no is required.
+2024-09-02 17:03:47,315 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:49,892 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '0123456789', 'Rd7Z')
+2024-09-02 17:03:50,079 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : indian mobile no is invalid.
+2024-09-02 17:03:54,245 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 17:03:56,360 : setup_env-registration_steps - enter_invalid_mobile_valid_others - 246 - DEBUG : Entered values : ('dayashetty5', 'Daya Shetty', 'Password@123', 'abc@abc.com', '9876543210', 'rReP')
+2024-09-02 17:03:56,526 : setup_env-registration_steps - test_mobile_validation - 254 - DEBUG : actual_username_warning : mobile no. is already linked with other irctc user.
+2024-09-02 18:37:45,127 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 18:41:22,176 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 18:54:18,218 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : Loaded Reg Page
+2024-09-02 18:54:20,538 : setup_env-registration_steps - test_all_blank_validations - 49 - DEBUG : actual validations :
+user name is required. 
+user name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 19:00:31,299 : setup_env-registration_steps - load_registration_page - 20 - DEBUG : Loaded Reg Page
+2024-09-02 19:00:33,403 : setup_env-registration_steps - test_all_blank_validations - 49 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 19:03:15,505 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 19:03:17,937 : setup_env-registration_steps - test_all_blank_validations - 48 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 19:45:09,874 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 19:45:12,157 : setup_env-registration_steps - test_all_blank_validations - 47 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 19:48:18,662 : setup_env-registration_steps - load_registration_page - 18 - DEBUG : Loaded Reg Page
+2024-09-02 19:48:20,757 : setup_env-registration_steps - test_all_blank_validations - 47 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 19:51:25,340 : setup_env-registration_steps - load_registration_page - 19 - DEBUG : Loaded Reg Page
+2024-09-02 19:51:29,379 : setup_env-registration_steps - test_all_blank_validations - 48 - DEBUG : actual validations :
+user name is required. 
+full name is required. 
+password is required. 
+confirm password is required. 
+email is required. 
+mobile no is required. 
+captcha is required
+2024-09-02 20:33:10,119 : setup_env-registration_steps - step_impl - 306 - DEBUG : Actual register page title : create your irctc account
+2024-09-02 20:33:14,869 : setup_env-registration_steps - step_impl - 306 - DEBUG : Actual register page title : create your irctc account
+2024-09-02 20:33:18,661 : setup_env-registration_steps - step_impl - 306 - DEBUG : Actual register page title : create your irctc account

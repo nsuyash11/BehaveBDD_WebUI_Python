@@ -1,0 +1,15 @@
+To check one field, Keep THAT field invalid and rest all fields valid.
+
+EXAMPLE
+
+uname	pwd	        captcha	    result
+valid	val(match)	valid	    success
+inval	valid	    valid	    Please Enter Valid User ID | Invalid User | Invalid User | Bad Credentials
+valid	inval	    valid	    Please Enter Valid Password | Bad Credentials | Bad Credentials | Bad Credentials
+valid	valid	    inval	    Please Enter Valid Captcha | Invalid Captcha.... | Invalid Captcha.... | Invalid Captcha....
+blank	blank	    blank	    Please Enter Valid User ID
+
+
+invalid = blank | space | spec chars | length | field-level valid but existence-level invalid
+valid = field-level & existence-level valid
+

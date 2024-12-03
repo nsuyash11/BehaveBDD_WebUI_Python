@@ -1,0 +1,43 @@
+2024-09-05 00:49:23,664 : setup_env-trainsearch_steps - step_impl - 31 - DEBUG : Entered values :  THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 00:49:24,126 : setup_env-trainsearch_steps - step_impl - 43 - DEBUG : Please submit correct input.
+2024-09-05 00:49:38,674 : setup_env-trainsearch_steps - step_impl - 31 - DEBUG : Entered values :       THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 00:50:09,854 : setup_env-trainsearch_steps - step_impl - 31 - DEBUG : Entered values : THANE THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 00:50:40,085 : setup_env-trainsearch_steps - step_impl - 31 - DEBUG : Entered values : TNA THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 00:51:15,434 : setup_env-trainsearch_steps - step_impl - 31 - DEBUG : Entered values : @#$ THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 10:52:15,001 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 31 - DEBUG : Entered values :  THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 11:43:43,876 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 31 - DEBUG : Entered values :  THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 11:43:44,233 : setup_env-trainsearch_steps - assert_fromstation_validation_step - 43 - DEBUG : Please submit correct input.
+2024-09-05 11:43:53,653 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 31 - DEBUG : Entered values :       THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 11:44:24,646 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 31 - DEBUG : Entered values : THANE THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 11:44:31,407 : setup_env-trainsearch_steps - assert_fromstation_validation_step - 43 - DEBUG : Please submit correct input.
+2024-09-05 11:44:40,712 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 31 - DEBUG : Entered values : TNA THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 20:56:13,774 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 33 - DEBUG : Entered values :  THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 20:56:14,271 : setup_env-trainsearch_steps - assert_fromstation_validation_step - 56 - DEBUG : Please submit correct input.
+2024-09-05 20:56:28,051 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 33 - DEBUG : Entered values :       THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 20:56:58,454 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 33 - DEBUG : Entered values : THANE THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 20:57:26,981 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 33 - DEBUG : Entered values : TNA THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 20:57:54,233 : setup_env-trainsearch_steps - enter_invalid_fromstation_valid_others_step - 33 - DEBUG : Entered values : @#$ THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 20:58:22,600 : setup_env-trainsearch_steps - enter_invalid_tostation_valid_others_step - 50 - DEBUG : Entered values :   GENERAL 11/09/2024 All
+2024-09-05 20:58:22,918 : setup_env-trainsearch_steps - assert_fromstation_validation_step - 56 - DEBUG : Please submit correct input
+2024-09-05 20:58:35,237 : setup_env-trainsearch_steps - enter_invalid_tostation_valid_others_step - 50 - DEBUG : Entered values : THANE THANE GENERAL 11/09/2024 All
+2024-09-05 20:59:03,362 : setup_env-trainsearch_steps - enter_invalid_tostation_valid_others_step - 50 - DEBUG : Entered values : TNA TNA GENERAL 11/09/2024 All
+2024-09-05 20:59:30,793 : setup_env-trainsearch_steps - enter_invalid_tostation_valid_others_step - 50 - DEBUG : Entered values : @#$ @#$ GENERAL 11/09/2024 All
+2024-09-05 20:59:58,349 : setup_env-trainsearch_steps - step_impl - 80 - DEBUG : Entered values : RATNAGIRI - RN (RATNAGIRI) THANE - TNA (MUMBAI) GENERAL  All
+2024-09-05 20:59:58,701 : setup_env-trainsearch_steps - step_impl - 86 - DEBUG : Invalid journey date.
+2024-09-05 21:00:10,712 : setup_env-trainsearch_steps - step_impl - 80 - DEBUG : Entered values : RATNAGIRI - RN (RATNAGIRI) THANE - TNA (MUMBAI) GENERAL @#$ All
+2024-09-05 21:00:11,038 : setup_env-trainsearch_steps - step_impl - 86 - DEBUG : Invalid journey date.
+2024-09-05 21:00:23,553 : setup_env-trainsearch_steps - step_impl - 80 - DEBUG : Entered values : RATNAGIRI - RN (RATNAGIRI) THANE - TNA (MUMBAI) GENERAL 11/09/2023 All
+2024-09-05 21:00:23,877 : setup_env-trainsearch_steps - step_impl - 86 - DEBUG : Invalid journey date.
+2024-09-05 21:00:30,716 : setup_env-trainsearch_steps - step_impl - 80 - DEBUG : Entered values : RATNAGIRI - RN (RATNAGIRI) THANE - TNA (MUMBAI) GENERAL 11/09/2025 All
+2024-09-05 21:00:31,079 : setup_env-trainsearch_steps - step_impl - 86 - DEBUG : Invalid journey date.
+2024-09-05 21:00:37,892 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 21:01:06,089 : setup_env-trainsearch_steps - step_impl - 134 - DEBUG : Entered values : RATNAGIRI - RN (RATNAGIRI) THANE - TNA (MUMBAI) GENERAL 11/09/2024 All
+2024-09-05 21:01:07,847 : setup_env-trainsearch_steps - step_impl - 142 - DEBUG : 24 Results for RATNAGIRI THANE | Wed, 11 Sep 2024 For Quota | General
+2024-09-05 22:11:18,159 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 22:13:00,887 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 22:14:47,160 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 22:16:05,277 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 22:16:07,408 : setup_env-trainsearch_steps - step_impl - 117 - DEBUG : 0 Results for UKSHI JAMTARA | Wed, 11 Sep 2024 For Quota | General
+2024-09-05 22:17:45,614 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 22:19:15,326 : setup_env-trainsearch_steps - step_impl - 106 - DEBUG : Entered values : UKSHI - UKC JAMTARA - JMT (ASANSOL) GENERAL 11/09/2024 All
+2024-09-05 22:19:17,636 : setup_env-trainsearch_steps - step_impl - 117 - DEBUG : 0 results for ukshi jamtara | wed, 11 sep 2024 for quota | general

@@ -1,0 +1,23 @@
+existing username - User Name [ abhishek ] Not Available
+existing email - Email ID is already linked with other IRCTC User.
+existing mobile - Mobile No. is already linked with other IRCTC User.
+confirm password non-matching - Password and Confirm password not Matched.
+
+
+
+
+blank / spaced / spec char / length / existence-wise invalid
+
+register link
+//a[@aria-label='Click here to register your account with I.R.C.T.C.']
+
+username
+fullname
+email
+mobile country code (dropdown)
+mobile
+password
+confirm password
+captcha (img+txtbox)
+
+submit button

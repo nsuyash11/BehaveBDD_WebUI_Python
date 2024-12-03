@@ -1,0 +1,22 @@
+//a[@class="search_btn loginText ng-star-inserted"]
+
+//input[@formcontrolname="userid"]
+//input[@formcontrolname="password"]
+
+//img[@class="captcha-img"]
+//input[@id="captcha"]
+
+//button[@type="submit" and contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'sign in')]
+
+//strong[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'forgot')]
+
+//label[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'register')]
+
+//div[@class="loginError"]
+
+
+username	password	captcha		message
+valid		invalid		valid		Bad credentials
+in/valid	in/valid	invalid		Invalid Captcha....
+bnk		bnk		blnk		Please Enter Valid User ID
+v/i		b		v		Please Enter Valid Password

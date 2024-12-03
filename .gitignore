@@ -1,0 +1,4 @@
+my_env/
+trial.ipynb
+.pytest_cache/
+__pycache__/
